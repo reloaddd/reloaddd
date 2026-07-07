@@ -1,7 +1,7 @@
 <div align="center">
   
   # Hi, I'm Akshay Karanwal
-  ### A Software Engineer and i like building AI projects as side quests
+  ### A Software Engineer building AI projects as side quests
   
   [![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=flat-square&logo=gmail)](mailto:akshaykaranwal14@gmail.com)
 
