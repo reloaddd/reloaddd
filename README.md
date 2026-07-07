@@ -55,10 +55,7 @@ I select tools based on the problem at hand, but these are the technologies I ut
 
 <div align="center">
   <a href="https://github.com/reloaddd">
-    <img src="https://github-readme-stats.vercel.app/api?username=reloaddd&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a&icon_color=white&v=1" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/reloaddd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reloaddd&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a&v=1" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reloaddd&theme=transparent&hide_border=true&title_color=ffffff&text_color=8a8a8a&icon_color=ffffff&background=00000000" alt="GitHub Streak" />
   </a>
 </div>
 
