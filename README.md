@@ -43,7 +43,7 @@ I select tools based on the problem at hand, but these are the technologies I ut
 
 ## 🚀 Featured Engineering Work
 
-| Project | Description | Tech Stack |
+| Project | Tech Stack |
 |---------|-------------|------------|
 | **[Agent-KIRO 1](https://github.com/reloaddd/Agent-Kiro)** | `Python`, `vectorDB`, `RAG`,`LLM` |
 | **[PNSV 2](https://github.com/reloaddd/Agent-PNSV)** | `Python`, `vectorDB`, `GraphRAG`,`Graphs`, `LLM` |
