@@ -54,7 +54,7 @@ I select tools based on the problem at hand, but these are the technologies I ut
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/reloaddd?config.timezone=UTC" alt="GitHub Metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reloaddd&theme=transparent&hide_border=true&title_color=ffffff&text_color=8a8a8a&icon_color=ffffff&background=00000000" alt="GitHub Streak" />
 </div>
 
 ---
