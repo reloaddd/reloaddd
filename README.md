@@ -9,12 +9,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="formal_card.png" alt="profile card" width="620"/>
-</div>
-
-<br/>
-
 ## 🔬 About Me
 I am a software engineer specializing in **Backend Development**, and **Artificial Intelligence**. I focus on building robust, deterministic, and highly observable architectures that scale efficiently.
 Rather than just writing code, my philosophy is centered around solving problems through clean system design, comprehensive testing, and automated deployments.
